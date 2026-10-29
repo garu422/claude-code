@@ -1,3 +1,11 @@
+> **개인용 복사본 안내 / Personal copy notice**
+>
+> 이 저장소는 [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)을 개인적으로 쓰려고 복사한 것이며, **공식 Caveman 저장소가 아닙니다.** 원작자와 관계없고 원작자의 보증도 받지 않았습니다. 코드는 원본과 같은 Apache-2.0 라이선스를 따릅니다(`LICENSE`, `NOTICE`, `LICENSING.md` 참고). "Caveman" 이름과 로고는 Julius Brussee의 상표입니다.
+>
+> 원본에서 바꾼 것: 이 안내문을 추가했고, 개인 복사본에서 원작자의 자동 작업이 돌지 않도록 `.github/workflows` → `.github/workflows.disabled`, `.github/dependabot.yml` → `.github/dependabot.yml.disabled`로 이름을 바꿨습니다.
+>
+> This is an unofficial personal copy of JuliusBrussee/caveman, not affiliated with or endorsed by its author. Changes from upstream: this notice, and GitHub Actions/Dependabot config renamed to `*.disabled`.
+
 <div align="center">
 
 <img src="docs/assets/caveman-logo-banner.png" alt="Caveman" width="720">
